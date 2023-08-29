@@ -1,0 +1,61 @@
+.truco{
+    position: absolute;
+    left: 120px;
+}
+
+.fixar{
+    position: absolute;
+}
+
+.picles{
+    position: absolute;
+    left: 438px;
+}
+
+.ponto{
+    position: absolute;
+    left: 729px;
+}
+
+.lombo{
+    position: absolute;
+    left: 984px;
+}
+
+.tenso{
+    position: absolute;
+    left: 1200px;
+}
+#simple-list-item-3{
+    position: absolute;
+    top: 1800px;
+    left: 600px;
+}
+
+#simple-list-item-2{
+    position: absolute;
+    top: 1300px;
+    left: 600px
+}
+
+#simple-list-item-1{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+.carro{
+    position: absolute;
+    top: 2200px;
+    left: 600px;
+}
+
+.pao{
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+
+.seferrar{
+    background-image: url(imagens/lanches/italiaburger.jpeg);
+}
