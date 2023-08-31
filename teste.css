@@ -1,55 +1,95 @@
+.Ancora1{
+    position: absolute;
+    left: 120px;
+    top: 40px;
+
+}
+
+.Ancora2{
+    position: absolute;
+    left: 438px;
+    top: 40px;
+}
+
+.Ancora3{
+    position: absolute;
+    left: 729px;
+}
+
 .home{
     position: absolute;
-    top: 740px;
+    top: 940px;
     left: 70px;
 }
 
 .home1{
     position: absolute;
-    top: 740px;
+    top: 940px;
     left: 530px;
 }
 
 .home2{
     position: absolute;
-    top: 740px;
+    top: 940px;
     left: 1000px;
 }
 
 .queridinhos{
     position: absolute;
-    top: 1043px;
+    top: 1235px;
 }
 
 .queridinhos1{
     position: absolute;
-    top: 1800px;
+    top: 2020px;
 }
 
 .brasilburguer{
     position: absolute;
-    top: 2600px;
+    top: 2880px;
     left: 40px;
 }
 
 .fritascheddarbacon{
     position: absolute;
-    top: 2600px;
-    left: 499px;
+    top: 2880px;
+    left: 496px;
 }
 
 .bebidas{
     position: absolute;
-    top: 2600px;
+    top: 2880px;
     left: 950px;
 }
 
 .footer{
     position:absolute;
-    top: 3000px;
+    top: 3200px;
     width: 100%;
 }
 
 Body{
     background: black;
 }
+
+.truco{
+    position: absolute;
+    top: 3200px;
+}
+
+.lombo{
+    position: absolute;
+    top: 1250px;
+}
+
+.rocambole{
+    position: absolute;
+    top: 2050px;
+}
+
+.voltar{
+    position: absolute;
+    top: 3160px;
+    left: 630px;
+}
+
