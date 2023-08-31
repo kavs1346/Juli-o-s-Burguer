@@ -1,19 +1,17 @@
-.Ancora1{
-    position: absolute;
-    left: 120px;
-    top: 40px;
+.Ancora{
+    display: flex;
+    flex-wrap: nowrap;
 
 }
 
-.Ancora2{
-    position: absolute;
-    left: 438px;
-    top: 40px;
+.Ancora{
+    display: flex;
+    flex-wrap: nowrap;
 }
 
-.Ancora3{
-    position: absolute;
-    left: 729px;
+.Ancora{
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .home{
@@ -36,12 +34,12 @@
 
 .queridinhos{
     position: absolute;
-    top: 1235px;
+    top: 1270px;
 }
 
 .queridinhos1{
     position: absolute;
-    top: 2020px;
+    top: 2060px;
 }
 
 .brasilburguer{
@@ -53,13 +51,13 @@
 .fritascheddarbacon{
     position: absolute;
     top: 2880px;
-    left: 496px;
+    left: 516px;
 }
 
 .bebidas{
     position: absolute;
     top: 2880px;
-    left: 950px;
+    left: 990px;
 }
 
 .footer{
@@ -74,17 +72,17 @@ Body{
 
 .truco{
     position: absolute;
-    top: 3200px;
+    top: 1250px;
 }
 
 .lombo{
     position: absolute;
-    top: 1250px;
+    top: 2050px;
 }
 
 .rocambole{
     position: absolute;
-    top: 2050px;
+    top: 3200px;
 }
 
 .voltar{
