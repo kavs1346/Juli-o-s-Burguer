@@ -65,3 +65,25 @@
 Body{
     background: black;
 }
+
+.truco{
+    position: absolute;
+    top: 1250px;
+}
+
+.lombo{
+    position: absolute;
+    top: 2050px;
+}
+
+.rocambole{
+    position: absolute;
+    top: 2950px;
+}
+
+.voltar{
+    position: absolute;
+    top: 3160px;
+    left: 630px;
+}
+
